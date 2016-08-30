@@ -17,3 +17,6 @@ Download, run server on port 8090. Browse http://localhost8080
 Download [Secure Api Sample Implementation App](https://github.com/eduardm/secureApiSampleImplementationApp) and start it on port 80.
 
 Do requests with valid pair of client key and client secret defined in config file.
+
+
+Update for Grails 3
